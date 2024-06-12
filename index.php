@@ -42,9 +42,9 @@
             <!-- Hero image -->
             <img src="assess/logo.png" alt="E-commerce Platform Hero Image">
             <!-- Hero title -->
-            <h1>Welcome to Our E-commerce Platform</h1>
+            <h1>Welcome to Brooks Shoes Store For Men & Women Wear</h1>
             <!-- Hero description -->
-            <p>Discover a wide range of products and enjoy a seamless shopping experience.</p>
+            <p>Discover a wide range of shoe wear products and enjoy a seamless shopping experience.</p>
             <!-- Call-to-action button -->
             <a href="#products" class="cta-button">Shop Now</a>
         </div>
@@ -88,7 +88,7 @@
   <!-- Product item -->
   <div class="product-item">
     <!-- Product image -->
-    <img src="shoe1.jpg" alt="Shoe 1">
+    <img src="shoe1.png" alt="shoe 1">
     <!-- Product name -->
     <h3 class="product-name">Nike Air Max 270</h3>
     <!-- Product brand -->

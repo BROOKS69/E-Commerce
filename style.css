@@ -245,7 +245,7 @@ body {
   
   .product-item img {
     width: 100%;
-    border-radius: 5px;
+    border-radius: 0px;
     margin-bottom: 1rem;
     object-fit: cover;
   }
