@@ -548,17 +548,17 @@ body {
 
 /* login section */
 .body {
-  margin-top: -7px;
+  margin-top: 35px;
   padding: 0rem;
   font-family: 'Times New Roman', Times, serif;
   color: var(--text-color);
-  background-color: var(--text-color);
-  transition: 2s ease;
+  background-color: var(--main-color);
+  transition: 5s ease;
  }
 
- .body:hover {
+ /* .body:hover {
   background-color: var(--bg-color);
- }
+ } */
 
 
 #container-login {
@@ -573,7 +573,7 @@ body {
   border-radius: 0.35em;
   text-align: center;
   box-shadow: 3px 3px 3px 3px var(--3rd-color);
-  transition: box-shadow 60s ease;
+  transition:  3s ease;
  }
 
 #container-login:hover {
@@ -591,7 +591,7 @@ body {
   border-radius: 0.35em;
   text-align: center;
   box-shadow: 3px 3px 3px 3px var(--3rd-color);
-  transition: box-shadow 60s ease;
+  transition: 3s ease;
 }
 
  #container-register:hover {
@@ -763,14 +763,15 @@ clear: both;
 
 .footerDwn {
   background-color: var(--main-color);
+  color: black;
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 1.5rem;
+  margin-top: 1rem;
 }
 
 .footer p {
-  color: var(--bg-color);
   font-size: 1.2rem;
   margin-bottom: 0;
 }
