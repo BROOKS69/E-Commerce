@@ -25,11 +25,13 @@
                 <li><a href="#products">Products</a></li>
                 <li><a href="#about">About Us</a></li>
                 <li><a href="#contact">Contact Us</a></li>
-                <li><a href="login.php">Login</a></li>
+                <!-- <li><a href="login.php">Login</a></li> -->
                 <li><a href="register.php">Register</a></li>
 
                 <div class="cart">
-                <a href="#products"><i class='bx bx-cart bx-tada' style='color:#1e1e1e; font-size: 3rem' ></i></a>
+                <a href="#products">
+                  <i class='bx bx-cart bx-tada' style='color:#1e1e1e; font-size: 3rem' ></i>
+                </a>
                 </div>
             </ul>
         </nav>
@@ -42,7 +44,7 @@
             <!-- Hero image -->
             <img src="assess/logo.png" alt="E-commerce Platform Hero Image">
             <!-- Hero title -->
-            <h1>Welcome to Brooks Shoes Store For Men & Women Wear</h1>
+            <h1>Welcome to Brooks Footwear Shopping For Men & Women Wear</h1>
             <!-- Hero description -->
             <p>Discover a wide range of shoe wear products and enjoy a seamless shopping experience.</p>
             <!-- Call-to-action button -->
@@ -88,7 +90,7 @@
   <!-- Product item -->
   <div class="product-item">
     <!-- Product image -->
-    <img src="shoe1.png" alt="shoe 1">
+    <img src="./assess/shoe1.png" alt="shoe 1" class="prod">
     <!-- Product name -->
     <h3 class="product-name">Nike Air Max 270</h3>
     <!-- Product brand -->
@@ -104,7 +106,7 @@
   <!-- Product item -->
   <div class="product-item">
     <!-- Product image -->
-    <img src="shoe2.jpg" alt="Shoe 2">
+    <img src="./assess/shoe.jpg" alt="Shoe 2">
     <!-- Product name -->
     <h3 class="product-name">Adidas Ultraboost</h3>
     <!-- Product brand -->
@@ -120,7 +122,7 @@
   <!-- Product item -->
   <div class="product-item">
     <!-- Product image -->
-    <img src="shoe3.jpg" alt="Shoe 3">
+    <img src="./assess/shoe1.png" alt="Shoe 3">
     <!-- Product name -->
     <h3 class="product-name">Puma RS-X</h3>
     <!-- Product brand -->
@@ -165,7 +167,7 @@
 
   <div class="product-item">
     <!-- Product image -->
-    <img src="shoe3.jpg" alt="Shoe 3">
+    <img src="./assess/shoe1.png" alt="Shoe 3">
     <!-- Product name -->
     <h3 class="product-name">Puma RS-X</h3>
     <!-- Product brand -->
@@ -255,7 +257,7 @@
 
   <div class="product-item">
     <!-- Product image -->
-    <img src="shoe1.jpg" alt="Shoe 1">
+    <img src="./assess/shoe1.png" alt="Shoe 1">
     <!-- Product name -->
     <h3 class="product-name">Nike Air Max 270</h3>
     <!-- Product brand -->
